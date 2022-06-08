@@ -1,0 +1,13 @@
+numpy
+sklearn
+jax
+chex
+git+https://github.com/deepmind/dm-haiku
+optax
+lightgbm
+tqdm
+pandas
+
+# for plotting
+matplotlib
+seaborn
